@@ -199,7 +199,7 @@ sub controlsub {
 sub usage {
     print << "HEREDOC";
 $0 <target> <target port> <reflector list> <weight> <attack type> <threads> <Time>
-DrDOS Tool V1.8 FINAL by ohnoes1479
+DrDOS Tool V1.8 FINAL Dev by Newwie
 
 Time: Limit running time of the script, Time is in seconds
 threads: number of threads to run
